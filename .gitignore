@@ -1,0 +1,9 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Configurações do Eclipse
+.settings/
+
+# Arquivos de ambiente (caso existam futuramente)
+.env
