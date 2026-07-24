@@ -2,7 +2,7 @@ package model;
 
 import java.security.SecureRandom;
 
-public class GeradorDeSenhasModel {
+public class GeradorDeSenhaModel {
 	
 	private static final String CARACTERES = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&*()_+-=[]|,./?><";
 	private static final SecureRandom GERADOR = new SecureRandom();
